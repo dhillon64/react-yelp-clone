@@ -15,6 +15,8 @@ class BusinessList extends React.Component{
                 <Business />
                 <Business />
                 <Business />
+                <Business />
+                <Business />
             </div>
 
         )
