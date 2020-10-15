@@ -1,3 +1,11 @@
+This App was built with create-react-app and displays Businesses when the user searches using the Yelp API. User can also define the search method required. 
+
+
+![screencapture-localhost-3000-2020-08-08-22_07_57](https://user-images.githubusercontent.com/67638060/96157256-fe452a00-0f09-11eb-80f1-208dd3c2905b.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
