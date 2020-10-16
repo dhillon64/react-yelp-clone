@@ -1,4 +1,5 @@
 This App was built with create-react-app and displays Businesses when the user searches using the Yelp API. User can also define the search method required. 
+Deployed App can viewed at:https://cocky-minsky-9b5494.netlify.app
 
 
 ![screencapture-localhost-3000-2020-08-08-22_07_57](https://user-images.githubusercontent.com/67638060/96157256-fe452a00-0f09-11eb-80f1-208dd3c2905b.png)
